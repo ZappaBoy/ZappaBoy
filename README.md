@@ -10,4 +10,4 @@ Read more about me [zappaboy.github.io](https://zappaboy.github.io/).
 If you're wondering why I'm not very active on github lately, it's because I'm working on gitlab: https://gitlab.com/ZappaBoy
 
 
-![ZappaBoy GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/wait/2/https://contra-psi.vercel.app/?githubUsername=ZappaBoy&gitlabUsername=ZappaBoy)
+![ZappaBoy GitHub/GitLab Merged Contribution with Contra](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-psi.vercel.app/?githubUsername=ZappaBoy&gitlabUsername=ZappaBoy)
