@@ -5,7 +5,7 @@ If you're wondering why I'm not very active on github lately, it's because I'm w
 
   Buy me a coffee            |  Visitors Counter
   :-------------------------:|:-------------------------:
-  [![sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ZappaBoy) | [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FZappaBoy&count_bg=%2351A2B2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors+Counter&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/ZappaBoy) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ZappaBoy.ZappaBoy&logo=github))
 
 </div>
 
