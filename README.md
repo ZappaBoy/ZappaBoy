@@ -4,7 +4,7 @@
 
 ---
 
-![Merged contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/2/https://contra-zappaboy.vercel.app/?githubUsername=ZappaBoy,ZappaBoyArtificialy&gitlabUsername=ZappaBoy,ZappaBoyArtificialy)
+![Merged contributions](https://image.thum.io/get/width/1200/fullpage/maxAge/24/wait/3/https://contra-zappaboy.vercel.app/?githubUsername=ZappaBoy,ZappaBoyArtificialy&gitlabUsername=ZappaBoy,ZappaBoyArtificialy)
 
 ---
 <div align="center">
